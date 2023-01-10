@@ -5,14 +5,14 @@
     box-sizing: border-box;
 }
 :root{
-    --body-color: #efefef;
-    --nav-color: #1876f2;
-    --bg-color: #fff;
+    --body-color: rgb(165, 165, 165);
+    --nav-color: rgb(71, 71, 71);
+    --bg-color: rgb(71, 70, 70);
 }
 .dark-theme{
-    --body-color: #0a0a0a;
-    --nav-color: #000;
-    --bg-color: #000;
+    --body-color: rgb(251, 243, 199);
+    --nav-color: rgb(175, 149, 0);
+    --bg-color: rgb(167, 142, 0);
 }
 
 body{
